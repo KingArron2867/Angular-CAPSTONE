@@ -1,0 +1,82 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+
+div.card-header {
+ font-size: large;
+}
+
+div.card {
+  margin-top: 10px
+}
+
+.table {
+  margin-top: 10px;
+  color: indianred ;
+}
+
+html, body {
+  background-color: black;
+  background-image: url(./assets/images/background.jpg);
+  background-position: center;
+  
+  
+}
+
+  
+
+
+.card {
+  background-color: rgba(14, 10, 10, 0.57);
+  color: rgb(254, 250, 250);
+}
+
+.card-header {
+  background-color: rgba(21, 21, 21, 0.68) ;
+}
+
+.nav-link {
+  color: rgb(148, 141, 141);
+  /* color of Home, Productlist, Contact */
+}
+
+.nav-link:hover {
+  /* hover over color  */
+  color: rgb(175, 13, 207);
+  
+}
+
+nav {
+  /* background color of nav */
+  background-color: rgba(255, 255, 0, 0.120);
+}
+
+.navbar-brand {
+  color: rgb(201, 141, 11);
+}
+
+.btn-primary{
+  border: 0px;
+  background-color: rgb(255, 123, 0);
+  
+}
+
+.btn-primary:hover {
+  color: rgb(90, 15, 18);
+  background-color: rgba(255, 120, 0, 0.787);
+  
+  
+}
+
+.btn :focus{
+  background-color: rgb(22, 122, 122);
+}
+
+a {
+  
+  color: yellowgreen;
+}
+
+a:hover{
+  color: silver;
+}

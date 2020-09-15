@@ -1,0 +1,74 @@
+[ 
+    {
+    "productId": 1,
+    "productCharacter": "Goku",
+    "productCode": "GK-1",
+    "releaseDate": "6/19/1984",
+    "description": "Born name Kakarot. Is the Main protagonistc (Sayian)",
+    "price": 39.99,
+    "starRating": 4.5,
+    "imageUrl": "src/assets/images/GOKU.png"
+    },
+    {
+    "productId": 2,
+    "productCharacter": "Vegeta (Super Sayian God)",
+    "productCode": "VG-614",
+    "releaseDate": "11/07/1988",
+    "description": "From planet Vegeta, the prince of the fallen Saiyan race. One of the main characters",
+    "price": 39.99,
+    "starRating": 5.0,
+    "imageUrl": "src/assets/images/Vegeta.png"
+    },
+    {
+    "productId": 5,
+    "productCharacter": "Broly",
+    "productCode": "BY-203",
+    "releaseDate": "03/06/1993",
+    "description": "Born on name Kakarot on Planet Vegeta. Is the a main Villian  (Mutant Sayian)",
+    "price": 39.99,
+    "starRating": 4.4,
+    "imageUrl": "src/assets/images/Brolly.png"
+    },
+    {
+    "productId": 3,
+    "productCharacter": "Majin Buu",
+    "productCode": "MB-006",
+    "releaseDate": "03/01/1994",
+    "description": "Buu Genie-type villian, who terrorized galaxies by destroying entire planets after being awoken by the evil warlock Bibidi (Majin),",
+    "price": 26.99,
+    "starRating": 3.0,
+    "imageUrl": "src/assets/images/Majin buu.png"   
+    },
+    {
+    "productId": 6,
+    "productCharacter": "Gohan",
+    "productCode": "GH-700",
+    "releaseDate": "10/8/1988",
+    "description": "A Hero with a soft heart, Gohan is a prominent character in the series. The elder son of Goku (Half Human and Sayian)",
+    "price": 24.99,
+    "starRating": 4.1,
+    "imageUrl": "APM-Start/src/assets/images/Gohan.png"
+    }, 
+    {
+    "productId": 4,
+    "productCharacter": "Cell",
+    "productCode": "CL-003",
+    "releaseDate": "02/16/1992",
+    "description": "A villian, The ultimate creation of Dr. Gero. Using a supercomputer designed cell using the genetics of the greatest fighters",
+    "price": 24.99,
+    "starRating": 3.8,
+    "imageUrl": "src/assets/images/Gohan.png"
+    },
+    {
+    "productId": 7,
+    "productCharacter": "Freiza",
+    "productCode": "FZ-005",
+    "realaseDate": "10/24/1989",
+    "description": "Antagonist, From Universe 7, Freiza controlled his own imperial army and is feared for his ruthlessness and power which increases as he transforms",
+    "price": 17.49,
+    "starRating": 3.5,
+    "imageUrl": "src/assets/images/Freiza.png"
+    }
+  
+    
+  ]
